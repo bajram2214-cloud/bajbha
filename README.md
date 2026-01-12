@@ -1,3 +1,5 @@
+snake-retro/
+  index.html
 git init
 git add .
 git commit -m "Shtova Snake Retro"
