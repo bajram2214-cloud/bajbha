@@ -157,3 +157,9 @@ game = setInterval(draw,speed);
 </script>
 </body>
 </html>
+git init
+git add .
+git commit -m "Shtova Snake Retro"
+git branch -M main
+git remote add origin https://github.com/USERNAME/snake-retro.git
+git push -u origin main
